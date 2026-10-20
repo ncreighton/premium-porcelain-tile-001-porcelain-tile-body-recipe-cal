@@ -1,0 +1,2 @@
+# premium-porcelain-tile-001-porcelain-tile-body-recipe-cal
+Stop guessing your porcelain tile body recipes and wasting materials on failed batches. The Porcelain Tile Body Recipe Calculator eliminates trial-and-error mixing by giving you exact formulations in seconds.  This Notion template transforms recipe development from a chaotic spreadsheet nightmare into a structured, repeatable system. Input your raw
